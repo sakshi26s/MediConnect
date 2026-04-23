@@ -1,10 +1,10 @@
-# 🏥 MediConnect
+#  MediConnect
 
 Smart Healthcare Referral System using **Decision Trees, Priority Queues, and Dijkstra Algorithm** in Java.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Disease diagnosis using Decision Tree  
 - Patient prioritization using Priority Queue  
@@ -14,7 +14,7 @@ Smart Healthcare Referral System using **Decision Trees, Priority Queues, and Di
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 src/
 └── MiniProject/
@@ -29,7 +29,7 @@ src/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Open project in any Java IDE  
 2. Add required dependency (see below)  
@@ -39,7 +39,7 @@ src/
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 This project uses the `org.json` library.
 
@@ -50,7 +50,7 @@ Add the `.jar` file to your project before running.
 
 ---
 
-## 🛠️ Tech Used
+##  Tech Used
 
 - Java  
 - Data Structures (Tree, Graph, Queue)  
